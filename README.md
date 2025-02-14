@@ -55,7 +55,7 @@ patient-records/
 
 ## Contributing
 
-Contributions are welcome! This project was developed in collaboration with my partner, Deepak Ostwal and myself. To contribute:
+Contributions are welcome! This project was developed in collaboration with my partner, Haresh Jadhav and myself. To contribute:
 
 1. Fork the repository.
 2. Create a new branch:
